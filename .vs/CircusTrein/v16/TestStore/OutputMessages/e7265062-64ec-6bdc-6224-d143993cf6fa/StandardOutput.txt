@@ -1,0 +1,377 @@
+Train: (40 carts)
+  Cart 1: (1 animals)
+    Animal 1: large meat
+      Size = Large
+      Diet = Meat
+  Total spaces filled: 1
+ 
+  Cart 2: (1 animals)
+    Animal 1: large meat
+      Size = Large
+      Diet = Meat
+  Total spaces filled: 1
+ 
+  Cart 3: (1 animals)
+    Animal 1: large meat
+      Size = Large
+      Diet = Meat
+  Total spaces filled: 1
+ 
+  Cart 4: (1 animals)
+    Animal 1: large meat
+      Size = Large
+      Diet = Meat
+  Total spaces filled: 1
+ 
+  Cart 5: (1 animals)
+    Animal 1: large meat
+      Size = Large
+      Diet = Meat
+  Total spaces filled: 1
+ 
+  Cart 6: (1 animals)
+    Animal 1: large meat
+      Size = Large
+      Diet = Meat
+  Total spaces filled: 1
+ 
+  Cart 7: (1 animals)
+    Animal 1: large meat
+      Size = Large
+      Diet = Meat
+  Total spaces filled: 1
+ 
+  Cart 8: (1 animals)
+    Animal 1: large meat
+      Size = Large
+      Diet = Meat
+  Total spaces filled: 1
+ 
+  Cart 9: (1 animals)
+    Animal 1: large meat
+      Size = Large
+      Diet = Meat
+  Total spaces filled: 1
+ 
+  Cart 10: (2 animals)
+    Animal 1: medium meat
+      Size = Medium
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 11: (2 animals)
+    Animal 1: medium meat
+      Size = Medium
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 12: (2 animals)
+    Animal 1: medium meat
+      Size = Medium
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 13: (2 animals)
+    Animal 1: medium meat
+      Size = Medium
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 14: (2 animals)
+    Animal 1: medium meat
+      Size = Medium
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 15: (2 animals)
+    Animal 1: medium meat
+      Size = Medium
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 16: (2 animals)
+    Animal 1: medium meat
+      Size = Medium
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 17: (2 animals)
+    Animal 1: medium meat
+      Size = Medium
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 18: (3 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+    Animal 3: medium vegan
+      Size = Medium
+      Diet = Vegan
+  Total spaces filled: 3
+ 
+  Cart 19: (3 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+    Animal 3: medium vegan
+      Size = Medium
+      Diet = Vegan
+  Total spaces filled: 3
+ 
+  Cart 20: (3 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+    Animal 3: medium vegan
+      Size = Medium
+      Diet = Vegan
+  Total spaces filled: 3
+ 
+  Cart 21: (3 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+    Animal 3: medium vegan
+      Size = Medium
+      Diet = Vegan
+  Total spaces filled: 3
+ 
+  Cart 22: (3 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+    Animal 3: medium vegan
+      Size = Medium
+      Diet = Vegan
+  Total spaces filled: 3
+ 
+  Cart 23: (3 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+    Animal 3: medium vegan
+      Size = Medium
+      Diet = Vegan
+  Total spaces filled: 3
+ 
+  Cart 24: (3 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+    Animal 3: medium vegan
+      Size = Medium
+      Diet = Vegan
+  Total spaces filled: 3
+ 
+  Cart 25: (2 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 26: (2 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 27: (2 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 28: (2 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 29: (2 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 30: (2 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 31: (2 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 32: (2 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 33: (2 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 34: (2 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 35: (2 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 36: (2 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 37: (2 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+    Animal 2: large vegan
+      Size = Large
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+  Cart 38: (1 animals)
+    Animal 1: small meat
+      Size = Small
+      Diet = Meat
+  Total spaces filled: 1
+ 
+  Cart 39: (10 animals)
+    Animal 1: small vegan
+      Size = Small
+      Diet = Vegan
+    Animal 2: small vegan
+      Size = Small
+      Diet = Vegan
+    Animal 3: small vegan
+      Size = Small
+      Diet = Vegan
+    Animal 4: small vegan
+      Size = Small
+      Diet = Vegan
+    Animal 5: small vegan
+      Size = Small
+      Diet = Vegan
+    Animal 6: small vegan
+      Size = Small
+      Diet = Vegan
+    Animal 7: small vegan
+      Size = Small
+      Diet = Vegan
+    Animal 8: small vegan
+      Size = Small
+      Diet = Vegan
+    Animal 9: small vegan
+      Size = Small
+      Diet = Vegan
+    Animal 10: small vegan
+      Size = Small
+      Diet = Vegan
+  Total spaces filled: 10
+ 
+  Cart 40: (2 animals)
+    Animal 1: small vegan
+      Size = Small
+      Diet = Vegan
+    Animal 2: small vegan
+      Size = Small
+      Diet = Vegan
+  Total spaces filled: 2
+ 
+
